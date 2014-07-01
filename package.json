@@ -1,0 +1,11 @@
+{
+  "name": "jMARS",
+  "version": "0.0.0",
+  "description": "JavaScript (browser and node) port of pMARS",
+  "main": "main.js",
+  "author": "Christopher Browne <yoda2031@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.5"
+  }
+}
