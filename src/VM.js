@@ -6,3 +6,9 @@ var VM = function (options) {
     this.settings = {};
     this.settings.coreSize = options.coreSize || DEFAULT.CORE_SIZE;
 }
+
+VM.prototype = {
+
+}
+
+module.exports = VM;
